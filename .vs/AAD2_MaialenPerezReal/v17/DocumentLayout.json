@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maial\\OneDrive\\Documentos\\AccesoADatos\\Proyectos\\AAD2_MaialenPerezReal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0372B32D-1B43-4C52-87B5-3F795EE28932}|AAD2_MaialenPerezReal\\AAD2_MaialenPerezReal.vbproj|c:\\users\\maial\\onedrive\\documentos\\accesoadatos\\proyectos\\aad2_maialenperezreal\\aad2_maialenperezreal\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0372B32D-1B43-4C52-87B5-3F795EE28932}|AAD2_MaialenPerezReal\\AAD2_MaialenPerezReal.vbproj|solutionrelative:aad2_maialenperezreal\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0372B32D-1B43-4C52-87B5-3F795EE28932}|AAD2_MaialenPerezReal\\AAD2_MaialenPerezReal.vbproj|c:\\users\\maial\\onedrive\\documentos\\accesoadatos\\proyectos\\aad2_maialenperezreal\\aad2_maialenperezreal\\form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0372B32D-1B43-4C52-87B5-3F795EE28932}|AAD2_MaialenPerezReal\\AAD2_MaialenPerezReal.vbproj|solutionrelative:aad2_maialenperezreal\\form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0372B32D-1B43-4C52-87B5-3F795EE28932}|AAD2_MaialenPerezReal\\AAD2_MaialenPerezReal.vbproj|c:\\users\\maial\\onedrive\\documentos\\accesoadatos\\proyectos\\aad2_maialenperezreal\\aad2_maialenperezreal\\form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0372B32D-1B43-4C52-87B5-3F795EE28932}|AAD2_MaialenPerezReal\\AAD2_MaialenPerezReal.vbproj|solutionrelative:aad2_maialenperezreal\\form4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0372B32D-1B43-4C52-87B5-3F795EE28932}|AAD2_MaialenPerezReal\\AAD2_MaialenPerezReal.vbproj|c:\\users\\maial\\onedrive\\documentos\\accesoadatos\\proyectos\\aad2_maialenperezreal\\aad2_maialenperezreal\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0372B32D-1B43-4C52-87B5-3F795EE28932}|AAD2_MaialenPerezReal\\AAD2_MaialenPerezReal.vbproj|solutionrelative:aad2_maialenperezreal\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0372B32D-1B43-4C52-87B5-3F795EE28932}|AAD2_MaialenPerezReal\\AAD2_MaialenPerezReal.vbproj|c:\\users\\maial\\onedrive\\documentos\\accesoadatos\\proyectos\\aad2_maialenperezreal\\aad2_maialenperezreal\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0372B32D-1B43-4C52-87B5-3F795EE28932}|AAD2_MaialenPerezReal\\AAD2_MaialenPerezReal.vbproj|solutionrelative:aad2_maialenperezreal\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0372B32D-1B43-4C52-87B5-3F795EE28932}|AAD2_MaialenPerezReal\\AAD2_MaialenPerezReal.vbproj|c:\\users\\maial\\onedrive\\documentos\\accesoadatos\\proyectos\\aad2_maialenperezreal\\aad2_maialenperezreal\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0372B32D-1B43-4C52-87B5-3F795EE28932}|AAD2_MaialenPerezReal\\AAD2_MaialenPerezReal.vbproj|solutionrelative:aad2_maialenperezreal\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0372B32D-1B43-4C52-87B5-3F795EE28932}|AAD2_MaialenPerezReal\\AAD2_MaialenPerezReal.vbproj|c:\\users\\maial\\onedrive\\documentos\\accesoadatos\\proyectos\\aad2_maialenperezreal\\aad2_maialenperezreal\\fichero.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0372B32D-1B43-4C52-87B5-3F795EE28932}|AAD2_MaialenPerezReal\\AAD2_MaialenPerezReal.vbproj|solutionrelative:aad2_maialenperezreal\\fichero.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0372B32D-1B43-4C52-87B5-3F795EE28932}|AAD2_MaialenPerezReal\\AAD2_MaialenPerezReal.vbproj|c:\\users\\maial\\onedrive\\documentos\\accesoadatos\\proyectos\\aad2_maialenperezreal\\aad2_maialenperezreal\\pelicula.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0372B32D-1B43-4C52-87B5-3F795EE28932}|AAD2_MaialenPerezReal\\AAD2_MaialenPerezReal.vbproj|solutionrelative:aad2_maialenperezreal\\pelicula.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0372B32D-1B43-4C52-87B5-3F795EE28932}|AAD2_MaialenPerezReal\\AAD2_MaialenPerezReal.vbproj|c:\\users\\maial\\onedrive\\documentos\\accesoadatos\\proyectos\\aad2_maialenperezreal\\aad2_maialenperezreal\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0372B32D-1B43-4C52-87B5-3F795EE28932}|AAD2_MaialenPerezReal\\AAD2_MaialenPerezReal.vbproj|solutionrelative:aad2_maialenperezreal\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0372B32D-1B43-4C52-87B5-3F795EE28932}|AAD2_MaialenPerezReal\\AAD2_MaialenPerezReal.vbproj|c:\\users\\maial\\onedrive\\documentos\\accesoadatos\\proyectos\\aad2_maialenperezreal\\aad2_maialenperezreal\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0372B32D-1B43-4C52-87B5-3F795EE28932}|AAD2_MaialenPerezReal\\AAD2_MaialenPerezReal.vbproj|solutionrelative:aad2_maialenperezreal\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0372B32D-1B43-4C52-87B5-3F795EE28932}|AAD2_MaialenPerezReal\\AAD2_MaialenPerezReal.vbproj|c:\\users\\maial\\onedrive\\documentos\\accesoadatos\\proyectos\\aad2_maialenperezreal\\aad2_maialenperezreal\\conexion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0372B32D-1B43-4C52-87B5-3F795EE28932}|AAD2_MaialenPerezReal\\AAD2_MaialenPerezReal.vbproj|solutionrelative:aad2_maialenperezreal\\conexion.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form2.vb",
+              "DocumentMoniker": "C:\\Users\\maial\\OneDrive\\Documentos\\AccesoADatos\\Proyectos\\AAD2_MaialenPerezReal\\AAD2_MaialenPerezReal\\Form2.vb",
+              "RelativeDocumentMoniker": "AAD2_MaialenPerezReal\\Form2.vb",
+              "ToolTip": "C:\\Users\\maial\\OneDrive\\Documentos\\AccesoADatos\\Proyectos\\AAD2_MaialenPerezReal\\AAD2_MaialenPerezReal\\Form2.vb",
+              "RelativeToolTip": "AAD2_MaialenPerezReal\\Form2.vb",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-04T08:32:35.34Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form4.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\maial\\OneDrive\\Documentos\\AccesoADatos\\Proyectos\\AAD2_MaialenPerezReal\\AAD2_MaialenPerezReal\\Form4.vb",
+              "RelativeDocumentMoniker": "AAD2_MaialenPerezReal\\Form4.vb",
+              "ToolTip": "C:\\Users\\maial\\OneDrive\\Documentos\\AccesoADatos\\Proyectos\\AAD2_MaialenPerezReal\\AAD2_MaialenPerezReal\\Form4.vb [Dise\u00F1o]",
+              "RelativeToolTip": "AAD2_MaialenPerezReal\\Form4.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-04T11:43:27.924Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\maial\\OneDrive\\Documentos\\AccesoADatos\\Proyectos\\AAD2_MaialenPerezReal\\AAD2_MaialenPerezReal\\Form1.vb",
+              "RelativeDocumentMoniker": "AAD2_MaialenPerezReal\\Form1.vb",
+              "ToolTip": "C:\\Users\\maial\\OneDrive\\Documentos\\AccesoADatos\\Proyectos\\AAD2_MaialenPerezReal\\AAD2_MaialenPerezReal\\Form1.vb [Dise\u00F1o]",
+              "RelativeToolTip": "AAD2_MaialenPerezReal\\Form1.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-04T07:26:38.317Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form4.vb",
+              "DocumentMoniker": "C:\\Users\\maial\\OneDrive\\Documentos\\AccesoADatos\\Proyectos\\AAD2_MaialenPerezReal\\AAD2_MaialenPerezReal\\Form4.vb",
+              "RelativeDocumentMoniker": "AAD2_MaialenPerezReal\\Form4.vb",
+              "ToolTip": "C:\\Users\\maial\\OneDrive\\Documentos\\AccesoADatos\\Proyectos\\AAD2_MaialenPerezReal\\AAD2_MaialenPerezReal\\Form4.vb",
+              "RelativeToolTip": "AAD2_MaialenPerezReal\\Form4.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-04T11:44:49.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\maial\\OneDrive\\Documentos\\AccesoADatos\\Proyectos\\AAD2_MaialenPerezReal\\AAD2_MaialenPerezReal\\Form1.vb",
+              "RelativeDocumentMoniker": "AAD2_MaialenPerezReal\\Form1.vb",
+              "ToolTip": "C:\\Users\\maial\\OneDrive\\Documentos\\AccesoADatos\\Proyectos\\AAD2_MaialenPerezReal\\AAD2_MaialenPerezReal\\Form1.vb",
+              "RelativeToolTip": "AAD2_MaialenPerezReal\\Form1.vb",
+              "ViewState": "AgIAAB0AAAAAAAAAAAArwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-04T07:38:14.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Fichero.vb",
+              "DocumentMoniker": "C:\\Users\\maial\\OneDrive\\Documentos\\AccesoADatos\\Proyectos\\AAD2_MaialenPerezReal\\AAD2_MaialenPerezReal\\Fichero.vb",
+              "RelativeDocumentMoniker": "AAD2_MaialenPerezReal\\Fichero.vb",
+              "ToolTip": "C:\\Users\\maial\\OneDrive\\Documentos\\AccesoADatos\\Proyectos\\AAD2_MaialenPerezReal\\AAD2_MaialenPerezReal\\Fichero.vb",
+              "RelativeToolTip": "AAD2_MaialenPerezReal\\Fichero.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-04T11:22:02.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form3.vb",
+              "DocumentMoniker": "C:\\Users\\maial\\OneDrive\\Documentos\\AccesoADatos\\Proyectos\\AAD2_MaialenPerezReal\\AAD2_MaialenPerezReal\\Form3.vb",
+              "RelativeDocumentMoniker": "AAD2_MaialenPerezReal\\Form3.vb",
+              "ToolTip": "C:\\Users\\maial\\OneDrive\\Documentos\\AccesoADatos\\Proyectos\\AAD2_MaialenPerezReal\\AAD2_MaialenPerezReal\\Form3.vb",
+              "RelativeToolTip": "AAD2_MaialenPerezReal\\Form3.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-04T10:37:46.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form3.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\maial\\OneDrive\\Documentos\\AccesoADatos\\Proyectos\\AAD2_MaialenPerezReal\\AAD2_MaialenPerezReal\\Form3.vb",
+              "RelativeDocumentMoniker": "AAD2_MaialenPerezReal\\Form3.vb",
+              "ToolTip": "C:\\Users\\maial\\OneDrive\\Documentos\\AccesoADatos\\Proyectos\\AAD2_MaialenPerezReal\\AAD2_MaialenPerezReal\\Form3.vb [Dise\u00F1o]",
+              "RelativeToolTip": "AAD2_MaialenPerezReal\\Form3.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-04T10:37:43.619Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form2.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\maial\\OneDrive\\Documentos\\AccesoADatos\\Proyectos\\AAD2_MaialenPerezReal\\AAD2_MaialenPerezReal\\Form2.vb",
+              "RelativeDocumentMoniker": "AAD2_MaialenPerezReal\\Form2.vb",
+              "ToolTip": "C:\\Users\\maial\\OneDrive\\Documentos\\AccesoADatos\\Proyectos\\AAD2_MaialenPerezReal\\AAD2_MaialenPerezReal\\Form2.vb [Dise\u00F1o]",
+              "RelativeToolTip": "AAD2_MaialenPerezReal\\Form2.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-04T07:52:17.219Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Conexion.vb",
+              "DocumentMoniker": "C:\\Users\\maial\\OneDrive\\Documentos\\AccesoADatos\\Proyectos\\AAD2_MaialenPerezReal\\AAD2_MaialenPerezReal\\Conexion.vb",
+              "RelativeDocumentMoniker": "AAD2_MaialenPerezReal\\Conexion.vb",
+              "ToolTip": "C:\\Users\\maial\\OneDrive\\Documentos\\AccesoADatos\\Proyectos\\AAD2_MaialenPerezReal\\AAD2_MaialenPerezReal\\Conexion.vb",
+              "RelativeToolTip": "AAD2_MaialenPerezReal\\Conexion.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-04T09:36:05.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pelicula.vb",
+              "DocumentMoniker": "C:\\Users\\maial\\OneDrive\\Documentos\\AccesoADatos\\Proyectos\\AAD2_MaialenPerezReal\\AAD2_MaialenPerezReal\\Pelicula.vb",
+              "RelativeDocumentMoniker": "AAD2_MaialenPerezReal\\Pelicula.vb",
+              "ToolTip": "C:\\Users\\maial\\OneDrive\\Documentos\\AccesoADatos\\Proyectos\\AAD2_MaialenPerezReal\\AAD2_MaialenPerezReal\\Pelicula.vb",
+              "RelativeToolTip": "AAD2_MaialenPerezReal\\Pelicula.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-04T08:08:28.449Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
