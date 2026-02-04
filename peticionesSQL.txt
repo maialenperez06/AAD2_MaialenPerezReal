@@ -1,0 +1,40 @@
+CREACIÓN TABLA PELÍCULA
+
+CREATE TABLE PELICULA ( 
+    ID INT PRIMARY KEY IDENTITY(1,1), //para poder mostrar la info de la película más fácil
+    Titulo VARCHAR(100),
+    Estreno INT,
+    Duracion INT,
+    Precio Decimal(10,2), // para poder acceder a este atributo cuando muestra la info de la película
+    Sinopsis TEXT,
+    URL_Imagen VARCHAR(255),
+    Entradas INT
+);
+
+
+INSERTS PELÍCULAS 
+
+
+INSERT INTO PELICULA (Titulo, Estreno, Duracion, Precio, Sinopsis, URL_Imagen, Entradas)
+VALUES ('Cars 2', 2011, 106, 5.50, 'Rayo McQueen y Mate viajan al extranjero para el Gran Prix Mundial.', 
+'C:/Users/maial/OneDrive/Documentos/AccesoADatos/Proyectos/AAD2_MaialenPerezReal/AAD2_MaialenPerezReal/imagenes/cars2.jpg', 50);
+
+
+INSERT INTO PELICULA (Titulo, Estreno, Duracion, Precio, Sinopsis, URL_Imagen, Entradas)
+VALUES ('F1 la pelicula', 2025, 120, 9.00, 'Un piloto veterano sale de su retiro para entrenar a un joven prodigio.', 
+'C:/Users/maial/OneDrive/Documentos/AccesoADatos/Proyectos/AAD2_MaialenPerezReal/AAD2_MaialenPerezReal/imagenes/f1.jpg', 30);
+
+
+INSERT INTO PELICULA (Titulo, Estreno, Duracion, Precio, Sinopsis, URL_Imagen, Entradas)
+VALUES ('Avatar', 2009, 162, 7.50, 'En un exuberante mundo alienígena llamado Pandora, viven los Na''vi.', 
+'C:/Users/maial/OneDrive/Documentos/AccesoADatos/Proyectos/AAD2_MaialenPerezReal/AAD2_MaialenPerezReal/imagenes/avatar.jpg', 40);
+
+
+INSERT INTO PELICULA (Titulo, Estreno, Duracion, Precio, Sinopsis, URL_Imagen, Entradas)
+VALUES ('El corredor del laberinto', 2014, 113, 6.00, 'Thomas se despierta atrapado en un laberinto gigante con otros chicos.', 
+'C:/Users/maial/OneDrive/Documentos/AccesoADatos/Proyectos/AAD2_MaialenPerezReal/AAD2_MaialenPerezReal/imagenes/corredor.jpg', 25);
+
+
+INSERT INTO PELICULA (Titulo, Estreno, Duracion, Precio, Sinopsis, URL_Imagen, Entradas)
+VALUES ('Star Wars 3', 2005, 140, 8.20, 'Anakin Skywalker sucumbe al lado oscuro y se convierte en Darth Vader.', 
+'C:/Users/maial/OneDrive/Documentos/AccesoADatos/Proyectos/AAD2_MaialenPerezReal/AAD2_MaialenPerezReal/imagenes/starwars3.jpg', 15);
